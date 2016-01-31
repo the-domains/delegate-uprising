@@ -1,17 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <channel>
-        <title><![CDATA[Delegate Uprising]]></title>
-        <description><![CDATA[Delegate Uprising]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <title><![CDATA[Delegate Uprising: The Best Way to Stop a Bullet is to Tell a Story]]></title>
+        <description><![CDATA[Delegate Uprising: The Best Way to Stop a Bullet is to Tell a Story]]></description>
+        <link>https://thegrid.ai/delegate-uprising/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sun, 31 Jan 2016 21:47:47 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Sun, 31 Jan 2016 21:51:35 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/delegate-uprising/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[Brendan]]></title>
-            <description><![CDATA[<article><h1>Brendan</h1><p>undefined</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/5fed4f5c56347bd5972e7a02e7d7639b2e983616.jpg"></article>]]></description>
-            <link>undefinedbrendan/index.html</link>
+            <description><![CDATA[<article><h1>Brendan</h1><p>Hey Youth and Government. I’m Brendan Thompson, a junior from the North Valley YMCA. Y & G has brought so much joy and passion into my life. Sacramento 2015 was probably the best week of my life. Unfortunately that’s not what I’ll be sharing with you today. What I will be sharing are my worst weeks, my lowest points and how I both overcame and learned from them.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/e95456b83b189c252189383b59ff122034bf44f1.jpg"></article>]]></description>
+            <link>https://thegrid.ai/delegate-uprising/brendan/index.html</link>
             <guid isPermaLink="false">563e1808-eb87-4d66-8caa-7c9651bcac5d</guid>
-            <pubDate>Sun, 31 Jan 2016 21:47:45 GMT</pubDate>
+            <pubDate>Sun, 31 Jan 2016 21:51:13 GMT</pubDate>
         </item>
     </channel>
 </rss>
