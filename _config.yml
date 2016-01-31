@@ -1,0 +1,28 @@
+name: Delegate Uprising
+favicon: null
+layout_spectrum: 0.876737735234201
+typography_spectrum: 0.605174727505073
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#3C493F'
+    - '#7E8D85'
+    - '#B3BFB8'
+    - '#F0F7F4'
+    - '#A2E3C4'
+  brandStrength: 0.398447954794392
+  lightness: 0.8171736479271203
+  saturation: 0.24368864460848272
+  rhythmicContrast: 0.04478300013579428
+purpose: []
