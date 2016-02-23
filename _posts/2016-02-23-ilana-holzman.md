@@ -3,19 +3,19 @@ inFeed: true
 hasPage: true
 inNav: false
 inLanguage: null
-starred: false
+starred: true
 keywords: []
 description: ''
-datePublished: '2016-02-23T02:43:34.152Z'
-dateModified: '2016-02-23T02:43:29.216Z'
+datePublished: '2016-02-23T02:45:16.310Z'
+dateModified: '2016-02-23T02:44:37.948Z'
 title: Ilana Holzman
 author: []
 authors: []
 publisher:
+  favicon: null
   name: null
   domain: null
   url: null
-  favicon: null
 sourcePath: _posts/2016-02-23-ilana-holzman.md
 published: true
 url: ilana-holzman/index.html
