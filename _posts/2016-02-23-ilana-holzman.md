@@ -6,18 +6,18 @@ inLanguage: null
 starred: false
 keywords: []
 description: ''
-datePublished: '2016-02-23T02:52:39.542Z'
-dateModified: '2016-02-23T02:52:18.042Z'
+datePublished: '2016-02-24T02:00:16.757Z'
+dateModified: '2016-02-24T01:51:42.431Z'
 title: Ilana Holzman
 author: []
+sourcePath: _posts/2016-02-23-ilana-holzman.md
+published: true
 authors: []
 publisher:
   name: null
   domain: null
   url: null
   favicon: null
-sourcePath: _posts/2016-02-23-ilana-holzman.md
-published: true
 url: ilana-holzman/index.html
 _type: Article
 
