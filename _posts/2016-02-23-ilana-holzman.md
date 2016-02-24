@@ -6,8 +6,8 @@ inLanguage: null
 starred: false
 keywords: []
 description: ''
-datePublished: '2016-02-24T02:20:41.930Z'
-dateModified: '2016-02-24T02:00:25.977Z'
+datePublished: '2016-02-24T02:22:00.970Z'
+dateModified: '2016-02-24T02:20:51.318Z'
 title: Ilana Holzman
 author: []
 sourcePath: _posts/2016-02-23-ilana-holzman.md
@@ -22,6 +22,6 @@ url: ilana-holzman/index.html
 _type: Article
 
 ---
-![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/205c5a9b-278a-4df9-a024-3ba89506b0a1.jpg)
+![](https://s3-us-west-2.amazonaws.com/the-grid-img/p/9cd15370c1f14febeb05bc123f17ddea67309951.jpg)
 
 My names Ilana Holzman and I'm apart of The Conejo Valley delegation. Being apart of Y and G has helped me learn so much about the government and even more about myself. This amazing program has helped me end my fear of public speaking and has helped me become better at standing up and saying what I belief and not being shot down because they don't belief it's "right thing". It (Y&G) taught me to be able to get up in class and speak. Y and g has taught me that I have an opinion and my opinion matters
